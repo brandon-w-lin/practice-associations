@@ -1,0 +1,2 @@
+class MeetingSpeakersController < ApplicationController
+end
